@@ -1,4 +1,4 @@
 # demo-repo
 demo reposotories
 <br>
-author-lavanya
+author-lavanya (info)
